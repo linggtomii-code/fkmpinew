@@ -3,7 +3,7 @@
     <div class="container">
       <div class="section-heading">
         <div>
-          <span class="section-label">03 — Program Kerja</span>
+          <span class="section-label">Program Kerja</span>
 
           <h2>
             Bergerak bersama,

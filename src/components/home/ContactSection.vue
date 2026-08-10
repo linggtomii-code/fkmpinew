@@ -3,7 +3,7 @@
     <div class="container">
       <div class="contact-wrapper">
         <div class="contact-information">
-          <span class="section-label light">04 — Hubungi Kami</span>
+          <span class="section-label light">Hubungi Kami</span>
 
           <h2>
             Mari bangun
@@ -17,7 +17,7 @@
           <div class="contact-list">
             <div class="contact-item">
               <span class="contact-item-label">Email</span>
-              <a href="mailto:info@fkmpi-riaukepri.id">info@fkmpi-riaukepri.id</a>
+              <a href="mailto:fkmpiriaukepri@gmail.com">fkmpiriaukepri@gmail.com</a>
             </div>
 
             <div class="contact-item">
@@ -39,7 +39,7 @@
 
         <div class="contact-form-wrapper">
           <div class="form-heading">
-            <span>Let's connect</span>
+            <span>Mari Terhubung</span>
 
             <h3>Sampaikan pesanmu.</h3>
           </div>
@@ -65,7 +65,7 @@
                   id="email"
                   v-model="form.email"
                   type="email"
-                  placeholder="nama@email.com"
+                  placeholder="fkmpiriaukepri@email.com"
                   required
                 />
               </div>
