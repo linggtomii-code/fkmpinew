@@ -61,7 +61,7 @@ export const members: Member[] = [
   {
     id: 5,
     name: 'Politeknik Negeri Bintan Cakrawala',
-    shortName: 'FKMPI RIAU KEPRI',
+    shortName: 'PBC',
     location: 'Kepulauan Riau',
     region: 'Riau',
     type: 'campus',
@@ -80,7 +80,7 @@ export const members: Member[] = [
     status: 'Kampus',
     logo: '/images/kampus/logo_polkam.png',
     description: 'Kampus yang membantu membangun jejaring mahasiswa politeknik di wilayah Riau.',
-    shortName: ''
+    shortName: 'POLKAM'
   },
   {
     id: 6,
